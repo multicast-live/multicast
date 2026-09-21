@@ -38,6 +38,39 @@ MultiCast is the automated marketing engine for modern brands. Drop in your webs
 
 Built for solo founders, small business owners, creators, and small teams — anyone who is their own marketer and would rather hand the work off than hire for it.
 
+## 🎨 See what it makes
+
+Everything below comes straight from MultiCast's built-in styles. Drop in your brand — your product, your colors, your voice — and they become yours. No designer, no editor, no prompts.
+
+### 🎬 Short videos
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/multicast-live/multicast/main/examples/video-clay.gif" alt="Claymation-style product reveal for a jam brand" width="24%">
+  <img src="https://raw.githubusercontent.com/multicast-live/multicast/main/examples/video-splash.gif" alt="Fruit splash spin reveal for a sparkling drink" width="24%">
+  <img src="https://raw.githubusercontent.com/multicast-live/multicast/main/examples/video-meadow.gif" alt="Floating meadow reveal for a honey brand" width="24%">
+  <img src="https://raw.githubusercontent.com/multicast-live/multicast/main/examples/video-graffiti.gif" alt="Graffiti spray reveal for an energy drink" width="24%">
+</p>
+
+### 🖼️ Carousels
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/multicast-live/multicast/main/examples/carousel-honey.jpg" alt="Four-slide carousel telling a honey brand story" width="100%">
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/multicast-live/multicast/main/examples/carousel-popup.jpg" alt="Four-slide carousel announcing a streetwear pop-up" width="100%">
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/multicast-live/multicast/main/examples/carousel-serum.jpg" alt="Four-slide carousel launching a vitamin C serum" width="100%">
+</p>
+
+### 📸 Feed posts
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/multicast-live/multicast/main/examples/feed-images.jpg" alt="Four feed posts: a lip lookbook, a perfume, a forest stay, and a harbor café" width="100%">
+</p>
+
+> 👉 Want these for your brand? **[Start free](https://multi-cast.live)** — your first post is ready in minutes.
+
 ## 🧩 What it does
 
 | | |
