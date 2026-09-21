@@ -6,7 +6,7 @@
   <h3>Stop making content. Start approving it. ✅</h3>
   <p>
     <a href="https://multi-cast.live">
-      <img src="https://raw.githubusercontent.com/multicast-live/multicast/main/examples/video-clay.gif" alt="A short product video made with MultiCast" width="260">
+      <img src="https://raw.githubusercontent.com/multicast-live/multicast/main/examples/video-graffiti.gif" alt="A short product video made with MultiCast" width="260">
     </a>
   </p>
   <p>
