@@ -5,6 +5,11 @@
   <h1>MultiCast</h1>
   <h3>Stop making content. Start approving it. ✅</h3>
   <p>
+    <a href="https://multi-cast.live">
+      <img src="https://raw.githubusercontent.com/multicast-live/multicast/main/examples/video-clay.gif" alt="A short product video made with MultiCast" width="260">
+    </a>
+  </p>
+  <p>
     <strong>One link in. Every channel out.</strong> 📡<br>
     MultiCast is the always-on marketing team for your brand —<br>
     it makes the content, posts it everywhere, and answers the comments. You just give the OK.
